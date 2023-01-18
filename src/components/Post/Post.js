@@ -1,6 +1,6 @@
 import { Avatar } from "@mui/material";
 import React, { forwardRef } from "react";
-import InputOption from "../components/Feed/InputOption";
+import InputOption from "../Feed/InputOption";
 import classes from "./Post.module.css";
 import ThumbUpOffAltIcon from "@mui/icons-material/ThumbUpOffAlt";
 import ChatIcon from "@mui/icons-material/Chat";
